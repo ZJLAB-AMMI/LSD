@@ -25,7 +25,7 @@ This repository contains code for reproducing our 'LSD'. We also include other S
 
 * `natural_acc.py`: Test the performance of the given ensemble model on normal examples.
 
-* `surrogate.py`: Generate blackbox transfer attack instances from the given surrogate ensemble models. We choose three ensembles consisting of 3, 4 and 5 base models as our surrogate models. 
+* `surrogate.py`: Generate blackbox transfer attack instances from the given surrogate ensemble models. We choose three ensembles consisting of 3 and 5 base models as our surrogate models. 
 * `pick_out_correctly_idx.py`: Pick out the common test sub-dataset from entire test dataset on which all comparison ensemble models initially give correct classifications.
 
 ## `models` folder contains:
