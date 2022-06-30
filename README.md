@@ -1,4 +1,6 @@
-# LSD ensemble training code repo
+# Adversarial Ensemble Training by Jointly Learning Label Dependencies and Member Models
+
+See the paper [here](https://arxiv.org/pdf/2206.14477.pdf).
 
 This repository contains code for reproducing our 'LSD'. We also include other STOA baseline code for fair comparison.
 
