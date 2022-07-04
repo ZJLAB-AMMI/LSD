@@ -2,7 +2,7 @@
 
 See the paper [here](https://arxiv.org/pdf/2206.14477.pdf).
 
-This repository contains code for reproducing our 'LSD'. We also include other STOA baseline code for fair comparison.
+This repository contains code for reproducing our conditional label dependency learning (CLDL) assisted ensemble training algorithm. In this code repository, we use 'LSD' to represent our CLDL based algorithm. We also include other STOA baseline code for fair comparison.
 
 ## Empirical ensemble robustness
 
