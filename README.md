@@ -62,7 +62,14 @@ We were using PyTorch 1.9.0 for all the experiments.
 ## Reference
 If you find our paper/this repo useful for your research, please consider citing our work.
 ```
-
+@inproceedings{wang2023adversarial,
+  title={Adversarial Ensemble Training by Jointly Learning Label Dependencies and Member Models},
+  author={Wang, Lele and Liu, Bin},
+  booktitle={International Conference on Intelligent Computing},
+  pages={3--20},
+  year={2023},
+  organization={Springer}
+}
 ```
 
 ## Train LSD
